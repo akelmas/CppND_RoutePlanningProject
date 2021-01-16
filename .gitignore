@@ -1,5 +1,4 @@
 *.swp
-*.osm
 *.o
 draw.cpp
 test.cpp
